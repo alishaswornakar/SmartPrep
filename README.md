@@ -1,2 +1,16 @@
-SmartPrep is a quiz-based mobile application designed to make learning easier and more engaging. Instead of relying on lengthy lessons, the app offers short, topic-wise quizzes that help learners revise key concepts quickly and assesstheir understanding in real time.The app is designed with simplicity and accessibility in mind, ensuring that beginners users can start learning without any barriers. Whether someone is trying to learn something new or simply refreshing their knowledgethe app enables flexible and on-the-go learning without the need for heavy resources or long sessions.
-What sets SmartPrep apart is its focus on active learning, self-assessment, and goal-oriented practice. Each quiz provides instant feedback, helping users identify strengths and areas for improvement while encouraging a consistent learning habit. It also serves as a helpful tool for teachers and facilitators, providing a structured way to assess knowledge and promote classroom or group engagement.SmartPrep will be developed using Flutter for building a smooth and responsive user interface across platforms. Firebase will serve as the backend for user authentication, real-time database storage, and analytics. Development will be carried out using Visual Studio Code (VS Code) as the primary integrated development environment. Together, these tools enable the creation of a lightweight, scalable, and interactive learning application.
+# smartprep
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
